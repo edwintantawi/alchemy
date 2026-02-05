@@ -1,3 +1,13 @@
+## v0.83.3
+
+### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes
+
+- **cloudflare**: Update writeMiniflareResponseToNode() to handle multiple `set-cookie` headers &nbsp;-&nbsp; by **Samson** and **John Royal** in https://github.com/alchemy-run/alchemy/issues/1314 [<samp>(312bd)</samp>](https://github.com/alchemy-run/alchemy/commit/312bd0b8)
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/alchemy-run/alchemy/compare/v0.83.2...v0.83.3)
+
+---
+
 ## v0.83.2
 
 ### &nbsp;&nbsp;&nbsp;🚀 Features
